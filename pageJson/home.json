@@ -1,0 +1,52 @@
+{
+    "glyphs": [
+        {
+            "icon_id": "1",
+            "id": [
+                {
+                    "Image": "/image/106741796.png",
+                    "color": [
+                        {
+                            "backgroundColor": "#1e0a1fbe",
+                            "color": "#d737e0",
+                            "backgroundColor1": "#de25ffe3"
+                        }
+                    ],
+                    "title": "v死对方纱布料山东科技v死对方纱布料山东科技山东科技"
+                }
+            ]
+        },
+        {
+            "icon_id": "2",
+            "id": [
+                {
+                    "Image": "/image/114608310.png",
+                    "color": [
+                        {
+                            "backgroundColor": "#bbadac30",
+                            "color": "#BBADAC",
+                            "backgroundColor1": "#BBADAC"
+                        }
+                    ],
+                    "title": "撒泼撒豆覅吧死啊皮肤不是斯奥博发扒皮哦不嗯呢"
+                }
+            ]
+        },
+        {
+            "icon_id": "2",
+            "id": [
+                {
+                    "Image":"/image/R-C.jpg",
+                    "color": [
+                        {
+                            "backgroundColor": "#0b174461",
+                            "color": "#4366e7",
+                            "backgroundColor1": "#4366e7"
+                        }
+                    ],
+                    "title": "撒泼撒豆覅吧死啊皮肤不是斯奥博发扒皮哦不嗯呢"
+                }
+            ]
+        }
+    ]
+}
